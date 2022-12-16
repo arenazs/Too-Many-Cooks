@@ -10362,7 +10362,7 @@ INSERT INTO public.recipes_tags VALUES (38, 12);
 INSERT INTO public.recipes_tags VALUES (38, 5);
 INSERT INTO public.recipes_tags VALUES (39, 7);
 INSERT INTO public.recipes_tags VALUES (39, 9);
-INSERT INTO public.recipes_tags VALUES (39, 5)
+INSERT INTO public.recipes_tags VALUES (39, 5);
 INSERT INTO public.recipes_tags VALUES (41, 13);
 INSERT INTO public.recipes_tags VALUES (41, 25);
 INSERT INTO public.recipes_tags VALUES (41, 9);
