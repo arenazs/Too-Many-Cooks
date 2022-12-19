@@ -137,8 +137,8 @@ public class RecipeService {
 
     private HttpEntity<Object>  getEntity(){
         HttpHeaders headers = new HttpHeaders();
-        headers.add("X-RapidAPI-Key", "04d763f06bmsh4ad284ced759b32p111538jsn4756293adb85");
-        headers.add("X-RapidAPI-Host", "tasty.p.rapidapi.com");
+        headers.add("X-RapidAPI-Key", "secret");
+        headers.add("X-RapidAPI-Host", "secret");
         HttpEntity<Object> requestEntity = new HttpEntity<>(headers);
         return requestEntity;
     }
