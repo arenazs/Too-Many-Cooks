@@ -32,7 +32,7 @@
             : "Welcome to"
         }}
       </h1>
-      <v-img id="bannerImg" src="../assets/LogoSample_ByTailorBrands.png" />
+      <img id="bannerImg" src="../assets/LogoSample_ByTailorBrands.png" />
     </div>
     <div>
       <div id="search">
